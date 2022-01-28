@@ -1,4 +1,4 @@
-# 3kh0.github.io V2
+# yall already know
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/3kh0/website-v2?color=yellow&label=Repo%20stars&logo=github&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/3kh0/website-v2?logo=github&style=for-the-badge)
@@ -13,13 +13,11 @@
 
 You can preview the current state of the projects with the link below:
 
-https://3kh0.github.io/website-v2/
+https://algebraquiz.github.io/Test1/
 
 ## Cloning
 
-You can clone this repo with this handy URL:
-```
-https://github.com/3kh0/website-v2.git
+
 ```
 ## Contributing
 
