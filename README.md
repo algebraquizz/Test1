@@ -1,33 +1,45 @@
-# yall already know
+# 3kh0.github.io
 
-![GitHub Repo stars](https://img.shields.io/github/stars/3kh0/website-v2?color=yellow&label=Repo%20stars&logo=github&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/3kh0/website-v2?logo=github&style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/3kh0/website-v2?logo=github&style=for-the-badge)
-![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/3kh0/website-v2?logo=codefactor&style=for-the-badge)
-### Deployments
-![Netlify](https://img.shields.io/netlify/e6a0c47e-feb6-4d00-85f5-4865130b58f5?label=netlify&logo=netlify&style=for-the-badge)
-![Website](https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_message=Online&url=https%3A%2F%2F3kh0.github.io)
-![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=Vercel&logo=vercel&style=for-the-badge&up_message=Online&url=https%3A%2F%2F3kh0.vercel.app%2F)
+![GitHub issues](https://img.shields.io/github/issues/3kh0/3kh0.github.io?logo=github&style=flat-square) 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/3kh0/3kh0.github.io?label=Pull%20requests&logo=github&style=flat-square) 
+![GitHub](https://img.shields.io/github/license/3kh0/3kh0.github.io?label=Licence&logo=github&style=flat-square) 
+![GitHub repo size](https://img.shields.io/github/repo-size/3kh0/3kh0.github.io?label=Repo%20size&logo=github&style=flat-square)
 
-## Preview
+This repo hosts my website. It is a revamp to the old one that can be found [here](https://github.com/3kh0/website-v1). Take a look around!
 
-You can preview the current state of the projects with the link below:
+You can view the actual site with this link: [3kh0.github.io](https://3kh0.github.io)
 
-https://algebraquiz.github.io/Test1/
 
 ## Cloning
 
-
+You can clone this repo with this handy URL:
 ```
+https://github.com/3kh0/3kh0.github.io.git
+```
+or, [download the repo](https://github.com/3kh0/3kh0.github.io/archive/refs/heads/main.zip)
+
 ## Contributing
 
-Here is a uncomplete list of what is being worked on at the moment:
+There are many ways to can help this project!
 
-- [X] Get `index.html` working.
-- [X] Get the background working with particles.js
-- [ ] Add more games, *always in progress*
-- [ ] Get the site looking good for mobile.
-- [ ] Update they way projects are being showcased.
-- [ ] Get the codefactor rating up to a A.
-- [ ] Make sure the whole is is userfriendly!
-- [ ] Trasfer this repo to the main site.
+- Give this repo a nice little :star:!
+- You can checkout the [issues](https://github.com/3kh0/3kh0.github.io/issues) tab and look for the `help wanted` label or take a look in the [pull request](https://github.com/3kh0/3kh0.github.io/pulls) tab to see if you can add your own review! 
+- If you have a game that you can add, please take a look at the guide on how to do that: [Click here](https://github.com/3kh0/3kh0.github.io/wiki/Guide:-Adding-games)
+
+## Structure
+
+`index.html`: Main page<br>
+`comments.html`: Comments page<br>
+`404.html`: 404 page<br>
+`/projects`: Where all of the projects are hosted<br>
+`/dump`: Mostly just random pages that dont fit anywhere else<br>
+`/css`: CSS files<br>
+`/js`: JS files<br>
+`/img`: Photo assets<br>
+`/.github`: Files for GitHub<br>
+
+## License
+
+© Echo, 2022. Unauthorized use and/or duplication of this material without permission from Echo is strictly prohibited. Excerpts and links may be used, provided that clear credit is given with a link to the original content.
+
+This code is licensed under the [Apache-2.0 License](https://github.com/3kh0/3kh0.github.io/blob/main/LICENSE.md). I ask you that you do not copy the code in the repo what-so-ever, I take time to build this and I do not need another person just yoinking all of my games for there site. If you have any questions please open a issue!
